@@ -133,11 +133,11 @@ h1, h2, h3, p { color: #000; }
 
 header { text-align: center; font-family: 'Press Start 2P', cursive; }
 
-header h1 { margin-top: 100px; font-size: 36px; border-bottom: 5px solid #000; padding-bottom: 20px; }
+header h1 { margin-top: 100px; font-size: 36px; border-bottom: 5px solid #000; padding-bottom: .67em; }
 
 header h2 { font-size: 16px; }
 
-@media screen and (min-width: 600px) { header h1 { font-size: 50px; line-height: 66px; }
+@media screen and (min-width: 600px) { header h1 { font-size: 46px; }
   header h2 { font-size: 20px; } }
 
 .body .section { margin: 50px 0; }
