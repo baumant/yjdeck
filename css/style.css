@@ -131,6 +131,8 @@ textarea { overflow: auto; }
 
 h1, h2, h3, p { color: #000; }
 
+audio { width: 100%; }
+
 header { text-align: center; font-family: 'Press Start 2P', cursive; }
 
 header h1 { margin-top: 100px; font-size: 36px; border-bottom: 5px solid #000; padding-bottom: 20px; }
