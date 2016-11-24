@@ -127,6 +127,8 @@ textarea { overflow: auto; }
 /** 1. Correct the inability to style clickable types in iOS and Safari. 2. Change font properties to `inherit` in Safari. */
 ::-webkit-file-upload-button { -webkit-appearance: button; /* 1 */ font: inherit; /* 2 */ }
 
+.dg.main.a { display: none; }
+
 .body, header { max-width: 400px; margin: 0 auto; padding: 0 15px; }
 
 h1, h2, h3, p { color: #000; }
